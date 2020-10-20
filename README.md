@@ -4,16 +4,13 @@
 ### Table of Contents
 
 * [Graphs](graph/)
-  * [Implementation]()
 
 * [Hashtable](hashtable/)
-  * [Implementation]()
 
-* [Linked List](linkedList/)
-  * [Implementation]()
+* [Linked List](linkedList/linked-list.js)
+  * [kthFromEnd](linkedList/kthFromEnd-ll.js)
 
 * [Stacks & Queues](stacksAndQueues/)
-  * [Implementation]()
 
 * [Trees](trees/)
   * [Binary Tree]()
