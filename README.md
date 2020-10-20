@@ -15,3 +15,6 @@
 * [Trees](trees/)
   * [Binary Tree]()
   * [Binary Search Tree]()
+
+* [Daily Challenges](dailyChallenge/)
+  * [Sum of Which Two Indeces = Target](dailyChallenge/two-sum.js)
