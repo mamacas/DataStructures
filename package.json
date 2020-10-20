@@ -1,0 +1,23 @@
+{
+  "name": "datastructures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --verbose",
+    "watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamacas/DataStructures.git"
+  },
+  "author": "cas ibrahim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mamacas/DataStructures/issues"
+  },
+  "homepage": "https://github.com/mamacas/DataStructures#readme",
+  "dependencies": {
+    "jest": "^26.6.0"
+  }
+}
