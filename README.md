@@ -13,7 +13,7 @@
 
 * [Trees](trees/)
   * [Binary Tree](trees/binarytree.js)
-  * [Binary Search Tree]()
+  * [Binary Search Tree](trees/bst.js)
 
 * [Daily Challenges](dailyChallenge/)
   * 10/18/20: Linked List: [kthFromEnd](linkedList/kthFromEnd-ll.js)
