@@ -1,5 +1,7 @@
 'use strict';
 
+// 10/19/2020
+
 // given an array of integers and a target integer,
 // return the two indeces in the array whose sum equals the target
 // i.e. [1, 4, 2, 6, 7], 9
