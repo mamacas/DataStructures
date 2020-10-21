@@ -1,6 +1,6 @@
 'use strict';
 
-const twoSum = require('../../dailyChallenge/two-sum.js');
+const twoSum = require('../../dailyChallenge/twoSum-arr.js');
 
 describe('Two Sum Challenge', () => {
 

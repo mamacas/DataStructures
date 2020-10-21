@@ -1,5 +1,7 @@
 'use strict';
 
+// 10/18/2020
+
 const kthFromEnd = (list, k) => {
   let currentNode = list.head;
   let length = 0;
