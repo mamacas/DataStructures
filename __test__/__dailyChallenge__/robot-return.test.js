@@ -1,6 +1,6 @@
 'use strict';
 
-const judgeCircle = require('../../dailyChallenge/robot-return.js');
+const judgeCircle = require('../../dailyChallenge/robot-return-obj.js');
 
 describe('Robot Return Challenge', () => {
 

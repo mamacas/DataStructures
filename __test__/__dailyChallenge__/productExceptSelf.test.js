@@ -1,6 +1,6 @@
 'use strict';
 
-const productExceptSelf = require('../../dailyChallenge/productExceptSelf.js');
+const productExceptSelf = require('../../dailyChallenge/productExceptSelf-arr.js');
 
 describe('Product of Array Except Self', () => {
 

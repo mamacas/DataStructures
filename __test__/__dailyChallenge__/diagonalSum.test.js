@@ -1,6 +1,6 @@
 'use strict';
 
-const diagonalSum = require('../../dailyChallenge/diagonalSum.js');
+const diagonalSum = require('../../dailyChallenge/diagonalSum-arr.js');
 
 describe('Matrix Diagonal Sum', () => {
 
