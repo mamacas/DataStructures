@@ -8,35 +8,35 @@ const numJewelsInStones = (J, S) => {
 
   // SOLVED WITH NESTED FOR LOOPS:
 
+  // let tally = 0;
+
+  // for (let stone of S) {
+  //   for (let jewel of J) {
+  //     if (jewel === stone) {
+  //       tally ++;
+  //       break;
+  //     }
+  //   }
+  // }
+
+  // return tally;
+
+  // SOLVED WITH A DICTIONARY:
+
+  let obj = {};
   let tally = 0;
 
   for (let jewel of J) {
-    for (let stone of S) {
-      if (jewel === stone) {
-        tally ++;
-      }
+    obj[jewel] = 0;
+  }
+
+  for (let stone of S) {
+    if (stone in obj) {
+      tally ++;
     }
   }
 
   return tally;
-
-  // SOLVED WITH A DICTIONARY:
-
-  // let obj = {};
-
-  // for (let jewel of J) {
-  //   obj[jewel] = 0;
-  // }
-
-  // for (let stone of S) {
-  //   if (typeof obj[stone] === 'number') {
-  //     obj[stone] += 1;
-  //   }
-  // }
-
-  // let tally = Object.values(obj).reduce((a, b) => a + b)
-
-  // return tally;
 
 };
 
