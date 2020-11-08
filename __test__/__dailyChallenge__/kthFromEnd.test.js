@@ -1,9 +1,9 @@
 'use strict';
 
 const LinkedList = require('../../linkedList/linked-list.js').LinkedList;
-const kthFromEnd = require('../../linkedList/kthFromEnd-ll.js');
+const kthFromEnd = require('../../dailyChallenge/kthFromEnd-ll.js');
 
-describe('Kth From End of Linked List', () => {
+describe('Kth From End of Linked List Challenge', () => {
 
   it('should return the value of the node at the kth position from the end of the list', () => {
     const ll = new LinkedList();
