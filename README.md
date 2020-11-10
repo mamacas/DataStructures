@@ -22,3 +22,4 @@
   * 11/06/20: Strings: [Number of Jewels in Stones](dailyChallenge/jewelsAndStones-str.js)
   * 11/07/20: Array: [Product Except Self](dailyChallenge/productExceptSelf.js)
   * 11/08/20: 2D Array: [Matrix Diagonal Sum](dailyChallenge/diagonalSum.js)
+  * 11/09/20: String, Array: [Unscramble String](dailyChallenge/shuffle-arr.js)
